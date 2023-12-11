@@ -9,6 +9,14 @@ This project involves the analysis and visualization of Bitcoin price data. Key 
 The dataset(1556 rows × 7 columns) comprises Bitcoin price information, including open, high, low, close values, volume, and market cap, spanning from April 28, 2013, to July 31, 2017.
 <img width="375" alt="image" src="https://github.com/Tikii0617/BIT-ANALYSIS/blob/main/IMG/1.png">
 
+## Technologies Used
+The analysis was performed using Python, leveraging the following libraries:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- plotly
+
 ## Preprocessing
 
 - Checked for missing values and duplicates.
@@ -34,13 +42,6 @@ The dataset(1556 rows × 7 columns) comprises Bitcoin price information, includi
 <img width="275" alt="image" src="https://github.com/Tikii0617/BIT-ANALYSIS/blob/main/IMG/6.png" style="display:inline-block; margin-right: 20px;">
 
 
-## Technologies Used
-The analysis was performed using Python, leveraging the following libraries:
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- plotly
 
 
 ## Data Visualizations
