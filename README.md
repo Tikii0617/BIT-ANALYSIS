@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Price Analysis | Key Tools: Python, Pandas, NumPy, Matplotlib
+Price Analysis | Key Tools: Python, Pandas, NumPy, Matplotlib>>>>>> e70c8a769e43aa3473e9ed3802b973bc2805d97d
 Perform data cleaning using Pandas, including handling missing values, outliers, and data type conversions. 
 
 Create time series data for analysing price trends.
@@ -8,4 +8,4 @@ Implemented time series charts to plot Bitcoin price trends, helping users analy
 Created line plots by Matplotlib to display the closing prices of Bitcoin over time, Comparing the price trend with and without logarithmic scaling.
 =======
 # Price-Analysis
->>>>>>> e70c8a769e43aa3473e9ed3802b973bc2805d97d
+>
