@@ -13,7 +13,7 @@ The dataset(1556 rows × 7 columns) comprises Bitcoin price information, includi
 
 <img width="275" alt="image" src="https://github.com/Tikii0617/BIT-ANALYSIS/blob/main/IMG/1.png">
 
-- Technologies: Tools Used: Azure Blob is used for storage. 
+Technologies: Tools Used: Azure Blob is used for storage. 
 
 ## Exploratory Data Analysis (EDA)
 
